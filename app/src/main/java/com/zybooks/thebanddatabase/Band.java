@@ -6,7 +6,7 @@ public class Band {
     private String mDescription;
 
     public Band() {}
-
+    //
     public Band(int id, String name, String description) {
         mId = id;
         mName = name;
